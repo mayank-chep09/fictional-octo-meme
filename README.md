@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# Fictional Octo Meme
+This Project demonstrates the Demo for the new AEM Franklin/Edge Services Website Creation.
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.hlx.page/
